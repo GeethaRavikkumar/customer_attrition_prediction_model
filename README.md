@@ -22,7 +22,7 @@ The data set includes information about:
     total charges
   - Demographic info about customers – gender, age range, and if they have partners and dependents
   
-# Data Source
+# Data Source:
 The dataset used in this project is hosted by Kaggle and is labeled ‘Attrition rate of a Telco’. Apart from the actual dataset, there is 
 no other information about the dataset.
 
