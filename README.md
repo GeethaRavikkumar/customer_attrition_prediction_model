@@ -1,5 +1,6 @@
 # Telco Customer Churn
-This analysis is to focus on the telecom customers who are dissatisfied with the services and unsubscribe them. 
+This analysis is to focus on the telecom customers who are dissatisfied with the services and unsubscribe them.
+This IBM Sample Dataset has information about Telco customers and if they left the company within the last month (churn).
 Objective is to analyze all relevant customer data and try to find the cause of the customer attrition and the factors that impact it.
 
 # Context:
