@@ -1,4 +1,4 @@
-# CHURN-IN-TELECOM-INDUSTRY
+# Telco Customer Churn
 Identifying customers likely to churn and how to retain them
 
 # Size of the problem:
@@ -21,3 +21,8 @@ The data set includes information about:
   - Customer account information – how long they’ve been a customer, contract, payment method, paperless billing, monthly charges, and
     total charges
   - Demographic info about customers – gender, age range, and if they have partners and dependents
+  
+# Data Source
+The dataset used in this project is hosted by Kaggle and is labeled ‘Attrition rate of a Telco’. Apart from the actual dataset, there is 
+no other information about the dataset.
+
