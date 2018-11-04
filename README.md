@@ -1,6 +1,6 @@
 # Telco Customer Churn
 This analysis is to focus on the telecom customers who are dissatisfied with the services and unsubscribe them. 
-objective is to analyze all relevant customer data and try to find the cause of the customer attrition and the factors that impact it.
+Objective is to analyze all relevant customer data and try to find the cause of the customer attrition and the factors that impact it.
 
 # Context:
 "Predict behavior to retain customers. You can analyze all relevant customer data and develop focused customer retention programs." [IBM 
