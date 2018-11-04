@@ -1,10 +1,6 @@
 # Telco Customer Churn
-Identifying customers likely to churn and how to retain them
-
-# Size of the problem:
-
-This study is done by looking at the market size in the telecom industry, with the intent of finding the necessary information to 
-understand how large the churn problem is, and the specific dollar impact associated to it.
+This analysis is to focus on the telecom customers who are dissatisfied with the services and unsubscribe them. 
+objective is to analyze all relevant customer data and try to find the cause of the customer attrition and the factors that impact it.
 
 # Context:
 "Predict behavior to retain customers. You can analyze all relevant customer data and develop focused customer retention programs." [IBM 
@@ -25,4 +21,3 @@ The data set includes information about:
 # Data Source:
 The dataset used in this project is hosted by Kaggle and is labeled ‘Attrition rate of a Telco’. Apart from the actual dataset, there is 
 no other information about the dataset.
-
