@@ -1,4 +1,10 @@
 # Telco Customer Churn
+
+# Who is Telco ?
+Telco Systems is market-leading solutions enable service providers to create and operate high quality, service assured, carrier-grade, intelligent networks. They bring over 40 years of experience to the design and development of advanced, high-performance telecom network communications solutions.
+
+Telco provide the capabilities for service differentiation that enable new forms of revenue production, maximizing network profitability. Service providers, large and small, depend on our consistent delivery of advanced solutions, enabling them to stay ahead of the capacity crunch while keeping total cost of ownership to a minimum.
+
 This analysis is to focus on the telecom customers who are dissatisfied with the services and unsubscribe them.
 This IBM Sample Dataset has information about Telco customers and if they left the company within the last month (churn).
 Objective is to analyze all relevant customer data and try to find the cause of the customer attrition and the factors that impact it.
